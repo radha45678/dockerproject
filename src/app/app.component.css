@@ -1,0 +1,12 @@
+.home{
+    color: aquamarine;
+    position: center;
+    text-align:center ;
+}
+.cen{
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    height: 200;
+    width: 300;
+}
